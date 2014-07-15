@@ -1,3 +1,3 @@
 Work
 ====
-Thing I'm powering throught at the office.
+Things I'm powering throught at the office.
